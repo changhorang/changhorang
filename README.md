@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @changhorang
-- 👀 I’m interested in backend developer / data engineer
-- 🌱 I’m currently learning GO / FLUTTER
+- 👀 I’m interested in backend developer
+- 🌱 I’m currently learning Python / GO / FLUTTER
 - 📫 How to reach me rlackdgh124@gmail.com
 
 <!---
